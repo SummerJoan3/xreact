@@ -1,0 +1,30 @@
+{
+  "name": "xreact",
+  "description": "",
+  "version": "1.0.0",
+  "devDependencies": {
+    "@babel/plugin-proposal-class-properties": "^7.12.1",
+    "@babel/plugin-transform-runtime": "^7.12.10",
+    "@babel/preset-env": "^7.12.11",
+    "@babel/preset-react": "^7.12.10",
+    "babel-loader": "^8.2.2",
+    "html-webpack-plugin": "^4.5.0",
+    "webpack": "^5.11.1",
+    "webpack-cli": "^4.3.1",
+    "webpack-dev-server": "^3.11.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack serve --mode development"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SummerJoan3/xreact.git"
+  },
+  "author": "xjq",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SummerJoan3/xreact/issues"
+  },
+  "homepage": "https://github.com/SummerJoan3/xreact#readme"
+}
